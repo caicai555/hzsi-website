@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haozhong Si -"
+title                    : "Haozhong Si - "
 title_separator          : "-"
 name                     : &name "Haozhong Si"
 description              : &description "personal description"
