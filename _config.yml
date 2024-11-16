@@ -12,7 +12,7 @@ title                    : "Haozhong Si - "
 title_separator          : "-"
 name                     : &name "Haozhong Si"
 description              : &description "personal description"
-url                      : "https://caicai555.github.io/hzsi-website" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://caicai555.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/hzsi-website" # the subpath of your site, e.g. "/blog"
 repository               : "caicai555/hzsi-website"
 
