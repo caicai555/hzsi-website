@@ -12,7 +12,7 @@ title                    : "Haozhong Si"
 title_separator          : "-"
 name                     : &name "Haozhong Si"
 description              : &description "personal description"
-URL                      : "https://caicai555.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+URL                      : "https://caicai555.github.io/hzsi-website" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "caicai555/hzsi-website"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Haozhong Si"
   pronouns         : # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "China"
   employer         : 
   URI              : "https://www.researchgate.net/profile/Haozhong-Si-2"
