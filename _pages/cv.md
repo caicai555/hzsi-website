@@ -17,8 +17,7 @@ EDUCATION
     - Thesis: Internet cat culture and its impact on the control of stray animals  
     - GPA: 4.51/5.0
     - Rank: 2/30  
-    - Outstanding Graduate of Nanjing University  
-- - -  
+    - Outstanding Graduate of Nanjing University   
 
 RELEVANT SKILLS
 ======
@@ -34,7 +33,6 @@ RELEVANT SKILLS
     - Competent in designing, implementing, and analyzing questionnaires for conservation-related studies.  
 6. **Ecology Fieldwork**
     - Hands-on experience in wildlife tracking, species identification, behavior sampling and eDNA sampling for biodiversity research.
-
 
 Publications
 ======
