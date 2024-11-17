@@ -14,7 +14,7 @@ My MSc thesis, supervised by [Prof. Zhongqiu Li](https://www.researchgate.net/pr
 Recent
 ======
 *Looking for a PhD position in Conservation Culturomics*  
-___
+***
 ### Preparing manuscripts ### 
 
 1. **Feathered Icons: Drivers of Global Attention on Bird Species**   
@@ -24,7 +24,7 @@ ___
    - Manuscript finished, currently under revision.
 
 *See [Research](https://caicai555.github.io/hzsi-website/research) for more details.*  
-___
+***
 ### Ongoing collaboration ###
 1. **Aggression transmission in Père David's deer**  
    - Role: Conceptualization, Exploration, Methodology 
