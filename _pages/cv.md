@@ -9,37 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* **MSc Zoology - Nanjing University**, 2021-2024  
+    - Thesis: Human-animal interaction in the digital age: a culturomics analysis based on Bilibili videos  
+* **BSc Life Science - Nanjing University**, 2017-2021  
+    - Thesis: Internet cat culture and its impact on the control of stray animals  
+    - GPA: 4.51/5.0
+    - Rank: 2/30  
+    - Outstanding Graduate of Nanjing University  
+- - -
+RELEVANT SKILLS
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+1. **Web Scraping and API Integration**  
+    - Experienced in automated data collection from platforms such as Google, Wikipedia, iNaturalist, YouTube, and social media sites.  
+2. **Text Mining with NLP**  
+    - Proficient in word frequency analysis, sentiment analysis, topic modeling, and semantic analysis using tools like AntConc and word2vec.  
+3. **Network Analysis**  
+    - Skilled in analyzing complex networks using NetworkX, iGraph, Gephi, and CiteSpace.  
+4. **Statistical Analysis**  
+    - Experienced in using Python and R for advanced statistical modeling, e.g., ANOVA, GLM, GAM, GLMM.  
+5. **Survey Design and Analysis**
+    - Competent in designing, implementing, and analyzing questionnaires for conservation-related studies.  
+6. **Ecology Fieldwork**
+    - Hands-on experience in wildlife tracking, species identification, behavior sampling and eDNA sampling for biodiversity research.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
