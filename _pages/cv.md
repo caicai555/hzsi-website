@@ -18,7 +18,8 @@ EDUCATION
     - GPA: 4.51/5.0
     - Rank: 2/30  
     - Outstanding Graduate of Nanjing University  
-- - -
+- - -  
+
 RELEVANT SKILLS
 ======
 1. **Web Scraping and API Integration**  
