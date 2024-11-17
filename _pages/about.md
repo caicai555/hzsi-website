@@ -13,7 +13,7 @@ My MSc thesis, supervised by [Prof. Zhongqiu Li](https://www.researchgate.net/pr
 
 Recent
 ======
-*Looking for a PhD position in Conservation Culturomics*
+*Looking for a PhD position in Conservation Culturomics*  
 ___
 ### Preparing manuscripts ### 
 
@@ -23,7 +23,7 @@ ___
 2. **From Screen to Species: Online Trends and Perceptions on Exotic Pets and Conservation Challenges**  
    - Manuscript finished, currently under revision.
 
-*See [Research]() for more details.*
+*See [Research](https://caicai555.github.io/hzsi-website/research) for more details.*  
 ___
 ### Ongoing collaboration ###
 1. **Aggression transmission in Père David's deer**  
