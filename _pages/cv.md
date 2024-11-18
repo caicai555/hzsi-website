@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Summary"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -38,48 +38,55 @@ RELEVANT SKILLS
 RESEARCH EXPERIENCE
 ======  
 **_Basic Biological Research on Stray Cats_**   
-_2021-2024_ | Funded Research Project, Natural Science Foundation of Jiangsu Province
+_2021-2024_ | Funded Research Project, Natural Science Foundation of Jiangsu Province.  
 - Programmed scripts and collected data from social media platforms.  
-- Applied text mining and network analysis to investigate human-cat interactions online.  
+- Applied text mining and network analysis to investigate human-cat interactions online.
 
 **_Online Trends and Perceptions on Exotic Pets_**  
-_2023 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University.
-- Analyzed data from social media platforms to identify exotic pet taxa receiving significant attention.
-- Investigated online trends with conservation implications and drafted a manuscript for publication.
+_2023 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University.  
+- Analyzed data from social media platforms to identify exotic pet taxa receiving significant attention.  
+- Investigated online trends with conservation implications and drafted a manuscript for publication.  
 
 **_Drivers of Global Attention on Bird Species_**  
-_2023 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University
+_2023 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University.  
 - Explored public and scientific interest in bird species using data from Wikipedia, Web of Science, and IUCN.  
-- Conducted statistical modeling, data interpretation and drafted a manuscript for publication.
+- Conducted statistical modeling, data interpretation and drafted a manuscript for publication.  
 
 **_National Animal Roadkill Survey_**  
-_2022 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University
-- Contribute to the design of a citizen science platform for recording roadkill incidents.
-- Collected data from inaturalist to study animal roadkill incidents in China.
+_2022 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University.  
+- Contribute to the design of a citizen science platform for recording roadkill incidents.  
+- Collected data from inaturalist to study animal roadkill incidents in China.  
 
 **_Online Trade and Potential Invasion of Gars and Snapping Turtles in China_**  
-_2024 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University
-- Contributed to the conceptualization of research questions and data collection scripts.
-- Developed text mining tools and automatic species identification algorithms for invasion risk assessment.
+_2024 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University.  
+- Contributed to the conceptualization of research questions and data collection scripts.  
+- Developed text mining tools and automatic species identification algorithms for invasion risk assessment.  
 
 **_Behavioral Studies on Ungulates_**  
-_2024 - Present_ | Funded Research Project, National Natural Science Foundation of China  
-- **Père David's Deer Group Decision-Making in a Social Network Framework**: Processed behavioral data and modeled aggression transmission  
- - **Tibetan Antelope Group Dynamics Based on Drones and Motion Modelling Techniques**: Programmed and analyzed drone-collected locomotion data to study group decision-making.  
-
-
-Conference
-======
-
-
+_2024 - Present_ | Funded Research Project, National Natural Science Foundation of China.  
+- **Père David's Deer Group Decision-Making in a Social Network Framework**: Processed behavioral data and modeled aggression transmission.  
+- **Tibetan Antelope Group Dynamics Based on Drones and Motion Modelling Techniques**: Programmed and analyzed drone-collected locomotion data to study group decision-making.  
 
 AWARDS
 ======
+Top Talent Study Scholarship (Grade 1, 2018; Grade 3, 2019, 2020)  
+Outstanding Graduates Awards (2021)  
+Graduate Study Scholarship (Grade 1, 2021; Grade 2, 2022, 2023)  
+Noldus Poster Award for Excellence in Animal Behaviour Research (2023)  
 
-
-
-Publications
+PRESENTATIONS
 ======
+**Haozhong Si**, Zhongqiu Li (2023, October). _The story behind the dominance of internet cat - a comparative culturomic study based on semantic and network approaches._ Presented at the 2023 Annual Conference of Animal Behavior Society of China, Nanjing, Jiangsu.
 
+PUBLICATIONS
+======
+**Published:**
+1.  Xu Wang, Fan Yu, **Haozhong Si**, Zhongqiu Li*. Vocal repertoire of Azure-winged Magpies (Cyanopica cyanus): A context-associated communication system[J]. _Avian Research_, 2023, 14, 100089. (Q1, 5-Year IF = 1.9)
 
+**Submitted:**
+1. **Haozhong Si**, Fan Yu, Lee Tien Ming, Zhongqiu Li*. Millions of pet videos deepen our understanding of human-cat interactions with implications for management. _People and Nature_
+
+**In preparation:**
+1. **Haozhong Si**, Changjian Fu, Fan Yu, and Zhongqiu Li*. Feathered Icons: Drivers of Global Attention on Bird Species.
+2. **Haozhong S**i, Anna Hausmann, and Zhongqiu Li*. From Screen to Species: Online Trends and Perceptions on Exotic Pets and Conservation Challenges.
 
