@@ -16,7 +16,7 @@ EDUCATION
     - Thesis: Human-animal interaction in the digital age: a culturomics analysis based on Bilibili videos  
 * **BSc Life Science - Nanjing University**, 2017-2021  
     - Thesis: Internet cat culture and its impact on the control of stray animals  
-    - GPA: 4.51/5.0
+    - GPA: 4.54/5.0
     - Rank: 2/30  
     - Outstanding Graduate of Nanjing University   
 
