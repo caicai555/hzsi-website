@@ -6,13 +6,13 @@
 
 main:
   - title: "About me"
-    url: /about/
+    url: /
 
   - title: "Research"
-    url: /Research/
+    url: /research/
     
   - title: "CV"
     url: /cv/
     
   - title: "Contact"
-    url: /Contact/
+    url: /contact/
