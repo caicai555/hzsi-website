@@ -55,7 +55,7 @@ _2023 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanj
 **_National Animal Roadkill Survey_**  
 _2022 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University.  
 - Contribute to the design of a citizen science platform for recording roadkill incidents.  
-- Collected data from inaturalist to study animal roadkill incidents in China.  
+- Collected data from iNaturalist to study animal roadkill incidents in China.  
 
 **_Online Trade and Potential Invasion of Gars and Snapping Turtles in China_**  
 _2024 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University.  
@@ -81,7 +81,7 @@ PRESENTATIONS
 PUBLICATIONS
 ======
 **Published:**
-1.  Xu Wang, Fan Yu, **Haozhong Si**, Zhongqiu Li*. Vocal repertoire of Azure-winged Magpies (Cyanopica cyanus): A context-associated communication system[J]. _Avian Research_, 2023, 14, 100089. (Q1, 5-Year IF = 1.9)
+1.  Xu Wang, Fan Yu, **Haozhong Si**, Zhongqiu Li*. Vocal repertoire of Azure-winged Magpies (Cyanopica cyanus): A context-associated communication system[J]. _Avian Research_, 2023, 14, 100089. 
 
 **Submitted:**
 1. **Haozhong Si**, Fan Yu, Lee Tien Ming, Zhongqiu Li*. Millions of pet videos deepen our understanding of human-cat interactions with implications for management. _People and Nature_
