@@ -27,7 +27,7 @@ I am also very interested in the biases in species knowledge across taxa and reg
 
 ![image](../images/bird_interest.svg)
 Haozhong Si, Changjian Fu, Fan Yu, and Zhongqiu Li*. Feathered Icons: Drivers of Global Attention on Bird Species.
-* * *
+
 Animal behavior
 ---
 I am also fascinated by the field of animal behavior, with interests spanning acoustic communication, movement ecology, and social structures. For example, with colleagues at the lab of Animal Behavior and Conservation (ABC) at Nanjing University, we **investigated the vocal repertoire of Azure-winged Magpie (_Cyanopica cyanus_)**, a cooperatively breeding bird species. Our results showed that Azure-winged Magpies had a relatively large vocal repertoire, consisting of twelve distinct calls. These calls were associated with the context including movement, begging for food, contact, vigilance against predators, etc. This study laid the foundation for further investigation on the developmental mechanisms of bird vocalizations.
