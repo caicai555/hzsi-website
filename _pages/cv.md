@@ -25,7 +25,7 @@ RELEVANT SKILLS
 1. **Web Scraping and API Integration**  
     - Experienced in automated data collection from platforms such as Google, Wikipedia, iNaturalist, YouTube, and social media sites.  
 2. **Text Mining with NLP**  
-    - Proficient in word frequency analysis, sentiment analysis, topic modeling, and semantic analysis using tools like AntConc and word2vec.  
+    - Proficient in word frequency analysis, sentiment analysis, topic modeling, and semantic analysis using tools like AntConc and word embeddings.  
 3. **Network Analysis**  
     - Skilled in analyzing complex networks using NetworkX, iGraph, Gephi, and CiteSpace.  
 4. **Statistical Analysis**  
