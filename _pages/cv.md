@@ -17,7 +17,7 @@ EDUCATION
 * **BSc Life Science - Nanjing University**, 2017-2021  
     - Thesis: Internet cat culture and its impact on the control of stray animals  
     - GPA: 4.54/5.0
-    - Rank: 2/30  
+    - Rank: 2/64  
     - Outstanding Graduate of Nanjing University   
 
 RELEVANT SKILLS
