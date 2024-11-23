@@ -63,7 +63,7 @@ _2024 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanj
 - Developed text mining tools and automatic species identification algorithms for invasion risk assessment.  
 
 **_Behavioral Studies on Ungulates_**  
-_2024 - Present_ | Funded Research Project, National Natural Science Foundation of China.  
+_2021 - Present_ | Funded Research Project, National Natural Science Foundation of China.  
 - **Père David's Deer Group Decision-Making in a Social Network Framework**: Processed behavioral data and modeled aggression transmission.  
 - **Tibetan Antelope Group Dynamics Based on Drones and Motion Modelling Techniques**: Programmed and analyzed drone-collected locomotion data to study group decision-making.  
 
