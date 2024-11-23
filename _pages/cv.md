@@ -60,7 +60,7 @@ _2022 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanj
 **_Online Trade and Potential Invasion of Gars and Snapping Turtles in China_**  
 _2024 - Present_ | Research Project, Lab of Animal Behavior & Conservation, Nanjing University.  
 - Contributed to the conceptualization of research questions and data collection scripts.  
-- Developed text mining tools and automatic species identification algorithms for invasion risk assessment.  
+- Developed text mining tools and automatic species identification algorithms.
 
 **_Behavioral Studies on Ungulates_**  
 _2021 - Present_ | Funded Research Project, National Natural Science Foundation of China.  
