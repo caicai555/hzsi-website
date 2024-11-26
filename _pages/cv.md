@@ -76,9 +76,9 @@ Noldus Poster Award for Excellence in Animal Behaviour Research (2023)
 
 PRESENTATIONS
 ======
-**Haozhong Si**, Zhongqiu Li (October, 2023). _The story behind the dominance of internet cat - a comparative culturomic study based on semantic and network approaches_. Presented at the 2023 Annual Conference of the Animal Behavior Society of China, Nanjing, Jiangsu. **Awarded Noldus Poster Award for Excellence in Animal Behaviour Research (2023)**
-**Haozhong Si** (January, 2024). _Visualizing scientific landscapes with CiteSpace_. Webinar conducted for members of the Animal Behavior Society of China. Shared insights on bibliometrics and skills in analyzing bibliographic records with CiteSpace
-**Haozhong Si** (June, 2022). _Visualization beyond bioinformatics_. Webinar conducted for students of the School of Life Science, Nanjing University. Presented clustering and visualization techniques for tag data, highlighting algorithms inspired by bioinformatics while extending beyond its traditional scope
+**Haozhong Si**, Zhongqiu Li (October, 2023). _The story behind the dominance of internet cat - a comparative culturomic study based on semantic and network approaches_. Presented at the 2023 Annual Conference of the Animal Behavior Society of China, Nanjing, Jiangsu. **Awarded Noldus Poster Award for Excellence in Animal Behaviour Research (2023)**  
+**Haozhong Si** (January, 2024). _Visualizing scientific landscapes with CiteSpace_. Webinar conducted for members of the Animal Behavior Society of China. Shared insights on bibliometrics and skills in analyzing bibliographic records with CiteSpace  
+**Haozhong Si** (June, 2022). _Visualization beyond bioinformatics_. Webinar conducted for students of the School of Life Science, Nanjing University. Presented clustering and visualization techniques for tag data, highlighting algorithms inspired by bioinformatics while extending beyond its traditional scope  
 
 
 PUBLICATIONS
