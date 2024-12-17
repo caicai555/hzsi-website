@@ -90,6 +90,6 @@ PUBLICATIONS
 1. **Haozhong Si**, Fan Yu, Lee Tien Ming, Zhongqiu Li*. Millions of pet videos deepen our understanding of human-cat interactions with implications for management. Submitted to _People and Nature_
 
 **In preparation:**
-1. **Haozhong Si**, Changjian Fu, Fan Yu, and Zhongqiu Li*. Feathered Icons: Drivers of Global Attention on Bird Species.
+1. **Haozhong Si**, Changjian Fu, Fan Yu, and Zhongqiu Li*. Feathered Icons: Drivers of Global Attention on Bird Species. https://doi.org/10.1101/2024.12.12.628088
 2. **Haozhong S**i, Anna Hausmann, and Zhongqiu Li*. From Screen to Species: Online Trends and Perceptions on Exotic Pets and Conservation Challenges.
 
