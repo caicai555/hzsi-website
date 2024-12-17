@@ -26,7 +26,7 @@ _Haozhong Si, Anna Hausmann, and Zhongqiu Li*. From Screen to Species: Online Tr
 I am also very interested in the biases in species knowledge across taxa and regions. Public engagement is essential to slow biodiversity loss, yet many endemic and threatened species receive insufficient attention. Using birds as a model group, regarding their ecological importance and cultural visibility, I **explored the factors driving scientific and public interest in different species**. I compiled a comprehensive dataset of birds' phenotypic, ecological, and cultural traits, using the number of published papers and Wikipedia pageviews as indicators of scientific and public interest. This study revealed that factors related to public familiarity and species charisma significantly shape public and scientific priorities. In contrast, threatened or range-restricted species often receive little public attention, with IUCN status alone proving insufficient to sustain public interest. To address this imbalance, targeted strategies such as media campaigns and conservation education should better engage the public and scientific communities. These efforts are crucial to ensure conservation initiatives encompass a broader range of species, particularly those at greatest risk of being overlooked.
 
 ![image](https://raw.githubusercontent.com/caicai555/hzsi-website/39cf5a9cff1b3ae4c8d6164a1e01746c0b154874/images/bird_interest.svg)  
-_Haozhong Si, Changjian Fu, Fan Yu, and Zhongqiu Li*. Feathered Icons: Drivers of Global Attention on Bird Species._
+_Haozhong Si, Changjian Fu, Fan Yu, and Zhongqiu Li*. Feathered Icons: Drivers of Global Attention on Bird Species. https://doi.org/10.1101/2024.12.12.628088_
 
 Animal behavior
 ---
