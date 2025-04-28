@@ -32,7 +32,7 @@ Ongoing collaboration
 2. **Online trade and potential invasion of gars and snapping turtles in China**
    - Role: Conceptualization, Data collection
    - Status: Ongoing
-   - 
+    
 3. **Aggression transmission in Père David's deer**  
    - Role: Conceptualization, Exploration, Methodology 
    - Status: Data analysis in progress
