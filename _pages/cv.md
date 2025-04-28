@@ -83,13 +83,9 @@ PRESENTATIONS
 
 PUBLICATIONS
 ======
-**Published:**
 1.  Xu Wang, Fan Yu, **Haozhong Si**, Zhongqiu Li*. Vocal repertoire of Azure-winged Magpies (Cyanopica cyanus): A context-associated communication system[J]. _Avian Research_, 2023, 14, 100089. 
+2. **Haozhong Si**, Fan Yu, Lee Tien Ming, Zhongqiu Li*. Millions of pet videos deepen our understanding of human-cat interactions with implications for management. _People and Nature_ \[Under Review\]
+3. **Haozhong S**i, Anna Hausmann, and Zhongqiu Li*. The exotic pet craze on Chinese social media: trends, community dynamics, and conservation implications. _Biological Conservation_ \[Under Review\]
+4. **Haozhong Si**, Changjian Fu, Fan Yu, and Zhongqiu Li*. Feathered Icons: Drivers of Global Attention on Bird Species. https://doi.org/10.1101/2024.12.12.628088 \[Manuscript finished, currently under revision\] 
 
-**Submitted:**
-1. **Haozhong Si**, Fan Yu, Lee Tien Ming, Zhongqiu Li*. Millions of pet videos deepen our understanding of human-cat interactions with implications for management. Submitted to _People and Nature_
-
-**In preparation:**
-1. **Haozhong Si**, Changjian Fu, Fan Yu, and Zhongqiu Li*. Feathered Icons: Drivers of Global Attention on Bird Species. https://doi.org/10.1101/2024.12.12.628088
-2. **Haozhong S**i, Anna Hausmann, and Zhongqiu Li*. From Screen to Species: Online Trends and Perceptions on Exotic Pets and Conservation Challenges.
 
