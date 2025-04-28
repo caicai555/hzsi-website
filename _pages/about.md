@@ -21,22 +21,19 @@ Preparing manuscripts
 1. **Feathered Icons: Drivers of Global Attention on Bird Species**   
    - Manuscript finished, currently under revision.
 
-2. **From Screen to Species: Online Trends and Perceptions on Exotic Pets and Conservation Challenges**  
-   - Manuscript finished, currently under revision.
-
 *See [Research](https://caicai555.github.io/hzsi-website/research) for more details.*  
 
 Ongoing collaboration
 ---
-1. **Aggression transmission in Père David's deer**  
-   - Role: Conceptualization, Exploration, Methodology 
-   - Status: Data analysis in progress
-
-2. **National Animal Roadkill Survey**  
+1. **National Animal Roadkill Survey**  
    - Role: Data collection
    - Status: Ongoing  
 
-4. **Online trade and potential invasion of gars and snapping turtles in China**
+2. **Online trade and potential invasion of gars and snapping turtles in China**
    - Role: Conceptualization, Data collection
-   - Status: Ongoing  
+   - Status: Ongoing
+   - 
+3. **Aggression transmission in Père David's deer**  
+   - Role: Conceptualization, Exploration, Methodology 
+   - Status: Data analysis in progress
 
