@@ -13,7 +13,6 @@ My MSc thesis, supervised by [Prof. Zhongqiu Li](https://www.researchgate.net/pr
 
 Recent
 ======
-*Looking for a PhD position in Conservation Culturomics*  
 
 Preparing manuscripts
 ---
